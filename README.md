@@ -3,7 +3,7 @@
 ## Description
 208 Vietnamese– 2D Living_Face & Anti_Spoofing Data. The collection scenes include indoor and outdoor scenes. The data includes male and female. The age distribution ranges from juvenile to the elderly, the young people and the middle aged are the majorities. The race distribution is Vietnamese. The data includes various expressions, postures, anti-spoofing samples, multiple light conditions, multiple scenes. The data can be used for tasks such as face payment, remote ID authentication, and face unlocking of mobile phone.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1321?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1321?source=Github
 
 
 ## Data size
